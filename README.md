@@ -28,7 +28,7 @@ sudo apt-get install python3-venv    # If needed
 Activating: python3 -m venv env
 ```
 
-* Enter yout IDE (e.g. VSCode) - in case it is the VSCode
+* Enter your IDE (e.g. VSCode) - in case it is the VSCode
 ```
 python -m pip install --upgrade pip
 python -m pip install flask
