@@ -5,9 +5,9 @@ information at the openweathermap website.
 
 The informations about the extensions used in python are in the requirements.txt file, here is what I added in my environment:
 
-*Bootstrap=Flask
-*mysql-connector-python
-*requests
+*Bootstrap-Flask; 
+*mysql-connector-python; 
+*requests;
 
 
 
